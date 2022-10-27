@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tempo_template/utilities/constants.dart';
+import 'package:app_tempo/utilities/constants.dart';
 
 class CityScreen extends StatefulWidget {
   const CityScreen({Key? key}) : super(key: key);

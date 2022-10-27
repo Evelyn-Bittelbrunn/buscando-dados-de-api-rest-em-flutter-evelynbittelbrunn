@@ -1,4 +1,4 @@
-package com.example.tempo_template
+package com.example.app_tempo
 
 import io.flutter.embedding.android.FlutterActivity
 
